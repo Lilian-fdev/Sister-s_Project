@@ -104,3 +104,9 @@ Pulling updates prevents **errors** and keeps everything **up-to-date**! 🚀
 
 
 🚀 **View the project here**: [https://shytypes.github.io/week-2-portfolio-assesment-Lilian-fdev/](https://shytypes.github.io/week-2-portfolio-assesment-Lilian-fdev/)
+
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green?logo=github)](https://SomiCodes12.github.io/Sister-s_Project/)
+
+
+🚀 **View the project here**: [https://SomiCodes12.github.io/Sister-s_Project/](https://SomiCodes12.github.io/Sister-s_Project/)
